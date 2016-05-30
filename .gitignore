@@ -1,0 +1,128 @@
+# Others
+Debug
+build
+obj
+libs
+*~
+*#
+bin
+gen
+deployment.pri
+*.tex
+*.pyg
+project.properties
+proguard-project.txt
+*.pro
+.recommenders/
+tags
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
+out.perf-folded
+perf-kernel.svg
+perf.data
+makefile/phodopus/
+
+# C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# Precompiled Headers
+*.gch
+*.pch
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+# Fortran module files
+*.mod
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+# Executables
+*.exe
+*.out
+*.app
+
+# Java
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.jar
+*.war
+*.ear
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+# Eclipse Core
+.project
+# External tool builders
+.externalToolBuilders/
+# Locally stored "Eclipse launch configurations"
+*.launch
+# CDT-specific
+.cproject
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+# Java annotation processor (APT)
+.factorypath
+# PDT-specific
+.buildpath
+# sbteclipse plugin
+.target
+# TeXlipse plugin
+.texlipse
+# STS (Spring Tool Suite)
+.springBeans
+
+# Qt
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+# QtCreator
+*.autosave
+#QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+.#*
+# Cmake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+*-build
+# Python 
+*.pyc
+
+# local
+tutorial/cmake/build
