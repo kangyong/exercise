@@ -20,7 +20,6 @@ tags
 out.perf-folded
 perf-kernel.svg
 perf.data
-makefile/phodopus/
 
 # C++
 # Compiled Object files
